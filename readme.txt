@@ -1,4 +1,4 @@
-This is the readme for proof of concept implementation for REAR (Routing and Energy Adaptive Re-keying Scheme for Secure Group Communication in IoT networks)
+This is the readme for proof of concept implementation for TARE (Topology Adaptive re-kEying scheme for secure group communication in IoT Networks)
 
 The code presented in this project maybe ported for implementations which require changing multicast engines , dropping selected few packets , changing the objective function , or for energy  measurement . The ways for each of the requirements have been discussed. 
 
