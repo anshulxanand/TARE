@@ -1,0 +1,7 @@
+00:10.536	ID:1	all_cpu: 6876 all_lpm: 321269 all_transmit: 2720 all_listen: 2189 6764 321269 2720 2189
+00:20.536	ID:1	all_cpu: 17525 all_lpm: 638289 all_transmit: 8063 all_listen: 6210 10647 317020 5343 4021
+00:30.537	ID:1	all_cpu: 28841 all_lpm: 954642 all_transmit: 13572 all_listen: 10294 11314 316353 5509 4084
+00:40.537	ID:1	all_cpu: 36311 all_lpm: 1274843 all_transmit: 16661 all_listen: 12619 7468 320201 3089 2325
+00:50.537	ID:1	all_cpu: 41493 all_lpm: 1597330 all_transmit: 18114 all_listen: 15338 5180 322487 1453 2719
+01:00.536	ID:1	all_cpu: 44146 all_lpm: 1922344 all_transmit: 18114 all_listen: 17258 2651 325014 0 1920
+01:10.537	ID:1	all_cpu: 56818 all_lpm: 2237344 all_transmit: 24350 all_listen: 20817 12670 315000 6236 3559
