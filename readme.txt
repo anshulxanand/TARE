@@ -105,7 +105,7 @@ Nodes are arranged as shown in the network.jpeg
 The key associations are set by following the algorithm as specified in the paper . Hence ST2.c , ST3.c and SK1.c etc. are made ,each specifies with subkey it belongs to , now in order to measure the energies , run the multicast_ST2.c , multicast_SK1.c function each time . Then in smrf.c file comment specifies how to set subtree to limit the messages to that subtree itself. Store the energest values of the affected subtree and calculate the energy as specified in the paper. Just no need to subtree chosen to be one which will derive keys locally. In our evaluation we chose the one with least number of nodes to make worst case comparison.
 
 
-REAR ---> 
+PROPOSED SCHEME :TARE ---> 
 
 Nodes are arranged as shown in the network.jpeg
 The key associations are set by following the algorithm as specified in the paper . Hence ST2.c , ST3.c and SK1.c etc. are made ,each specifies with subkey it belongs to , now in order to measure the energies , run the multicast_ST2.c , multicast_SK1.c function each time . Then in smrf.c file comment specifies how to set subtree to limit the messages to that subtree itself. Store the energest values of the affected subtree and calculate the energy as specified in the paper. Just no need to subtree chosen to be one which will derive keys locally. In our evaluation we chose the one with most  number of nodes as it always makes this choice.
